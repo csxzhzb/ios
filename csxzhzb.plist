@@ -35,13 +35,13 @@
                 <key>bundle-identifier</key>
                  <string>csxzhzbApp</string>
                  <key>bundle-version</key>
-                 <string>1.0</string>
+                 <string>1.0.0</string>
                  <key>kind</key>
                  <string>software</string>
                  <key>subtitle</key>
                  <string>UDID</string>
                  <key>title</key>
-                <string>移动审批</string>
+                <string>星沙智慧住保</string>
             </dict>
         </dict>
     </array>
